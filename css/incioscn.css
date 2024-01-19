@@ -1,0 +1,12 @@
+.container{
+    padding: 30%;
+}
+.container-text{
+    display: flex   ;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.footer{
+    padding: 10%;
+}

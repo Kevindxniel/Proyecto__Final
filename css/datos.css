@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+    margin-left: 550px;
+    border:3px solid  rgb(13, 77, 0);
+    width: 500px;
+    height: 730px;
+    color: white;
+    background-color: rgb(8, 97, 0);
+}
+.container-text{
+    background-color: #000000;
+}
